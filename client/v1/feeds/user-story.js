@@ -43,10 +43,7 @@ UserStory.prototype.postPhoto = function (photo, caption = '') {
             .signPayload()
             .send()
             .then(function(data) {
-                console.log(data);
-                return _.map(data.items, function (medium) {
-                    return new Media(that.session, medium);
-                });
+                return data.media;
             });
     })
 };
