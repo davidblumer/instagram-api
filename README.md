@@ -1,5 +1,4 @@
-Instagram Private API
-===================
+![Stories | Instagram API](https://user-images.githubusercontent.com/5000732/34076711-57322e14-e2bd-11e7-9f09-51881b5c8823.png)
 
 ![travis](https://travis-ci.org/huttarichard/instagram-private-api.svg)
 [![npm](https://img.shields.io/npm/dm/instagram-private-api.svg?maxAge=600)](https://www.npmjs.com/package/instagram-private-api)
